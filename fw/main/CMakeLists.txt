@@ -1,0 +1,9 @@
+idf_component_register(
+    SRCS
+        "main.c"
+        "i2c_link.c"
+        "i2s_audio.c"
+        "bt_av.c"
+    INCLUDE_DIRS
+        "."
+)
