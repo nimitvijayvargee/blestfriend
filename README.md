@@ -7,7 +7,7 @@ besides that, it's pretty much a standard ESP32 devboard with a UART link.
 ## PCB
 <img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/72391a1d-8fc2-4708-94bb-077ef8517baa" />
 <img width="996" height="840" alt="image" src="https://github.com/user-attachments/assets/d7b4ceca-b7f4-4dbe-bda8-799a9b32248f" />
-<img width="1712" height="896" alt="image" src="https://github.com/user-attachments/assets/e4b897a8-4f75-494f-81e5-ba38731ecfb0" />
+<img width="1712" height="896" alt="image" src="https://github.com/user-attachments/assets/664a264e-e8b1-4bdb-a96e-98147b2c74c6" />
 
 
 # BOM
