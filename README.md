@@ -20,6 +20,8 @@ Here's a rough list of components you need to actually finish this! All SMD pass
 - ESP32-WROOM-32E OR ESP32-WROOM-32UE (UE needs external antenna)
 - CH340C SOIC16 (Other CH340 variants needing a crystal will not work!)
 - 6mm Tactile Push Button
+
+
 Passives:
 - 4x 100nF Ceramic Capacitors
 - 4x 10uF Ceramic Capacitors
