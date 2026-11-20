@@ -1,4 +1,7 @@
-# blestfriend!
+<img width="1225" height="162" alt="image" src="https://github.com/user-attachments/assets/c68de206-f984-4ba0-ba42-73cc117ef5e5" />
+
+---
+
 this is a basic devboard I made to practice soldering SMD components better, as well as to help me create audio sink/source projects which I have plans for :3
 it essentially uses an ESP32-WROOM-32E module, which supports wifi, BLE and BT classic,, which are all quite useful for general projects and iot applications. 
 
@@ -20,8 +23,6 @@ Here's a rough list of components you need to actually finish this! All SMD pass
 - ESP32-WROOM-32E OR ESP32-WROOM-32UE (UE needs external antenna)
 - CH340C SOIC16 (Other CH340 variants needing a crystal will not work!)
 - 6mm Tactile Push Button
-
-
 Passives:
 - 4x 100nF Ceramic Capacitors
 - 4x 10uF Ceramic Capacitors
