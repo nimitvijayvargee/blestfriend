@@ -1,0 +1,15 @@
+﻿Item,Link,Quantity (1x PCB),Cost (1x PCB),Cost (5x PCB)
+PCB,https://pcbpower.com/,1,10.32,51.61
+USB Receptacle,https://robu.in/product/type-c-31-m-14-hroparts-1-16p-female-type-c-smd-usb-connectors-rohs/,1,0.68,3.39
+BAT60A,https://robu.in/product/bat60a-slkor-10v-580mv1a-sod-323-schottky-diodes-rohs/,2,0.22,1.08
+AP1117-33,https://robu.in/product/ap1117e33g-13-1a-dropout-positive-adjustable-or-fixed-mode-regulator-4-pin-sot-223/,1,0.12,0.59
+ESP32-WROOM-32E-N8R2,https://robu.in/product/espressif-esp32-wroom-32e-n8r2-module/,1,4.73,23.64
+CH340C,https://hubtronics.in/ch340c/,1,0.46,2.32
+6mm Tactile Button,https://robu.in/product/tsd001a05026a-bzcn-6mm-5mm-50ma-round-button-direct-insert-6mm-12v-plugin-tactile-switches-rohs/,1,0.02,0.11
+100nF 0805,https://robu.in/product/cc0805kkx7r0bb104-yageo-100v-100nf-x7r-%c2%b110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/,4,0.06,0.32
+10uF 0805,https://robu.in/product/0805x106k500nt-fh-50v-10uf-x5r%c2%b110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/,4,0.26,1.29
+200k 0805,https://robu.in/product/ac0805fr-07200kl-yageo-res-thick-film-0805-200k-ohm-1-0-125w1-8w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/,2,0.01,0.03
+100k 0805,https://robu.in/product/ac0805fr-7w100kl-yageo-res-thick-film-0805-100k-ohm-1-0-25w1-4w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/,2,0.01,0.03
+5.1k 0805,https://robu.in/product/erj6geyj512v-panasonic-125mw-thick-film-resistors-%c2%b15-%c2%b1200ppm-%e2%84%83-5-1k%cf%89-0805-chip-resistor-surface-mount-rohs/,2,0.02,0.11
+10k 0805,https://robu.in/product/0805w8j0103t5e-uniohm-royal-ohm-125mw-thick-film-resistors-150v-%c2%b1100ppm-%e2%84%83%c2%b15-10k%cf%89-0805-chip-resistor-surface-mount-rohs/,1,0.01,0.04
+Total,,,16.91,84.56
